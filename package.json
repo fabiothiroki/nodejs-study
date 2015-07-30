@@ -1,0 +1,22 @@
+{
+  "name": "bookapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiothiroki/nodejs-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiothiroki/nodejs-study/issues"
+  },
+  "homepage": "https://github.com/fabiothiroki/nodejs-study#readme",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
